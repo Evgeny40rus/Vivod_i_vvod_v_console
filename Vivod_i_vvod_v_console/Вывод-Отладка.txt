@@ -4,4 +4,4 @@
 "Vivod_i_vvod_v_console.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.3\System.Console.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
 "Vivod_i_vvod_v_console.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.3\System.Threading.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
 "Vivod_i_vvod_v_console.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.3\System.Text.Encoding.Extensions.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
-Программа "[5612] Vivod_i_vvod_v_console.exe" завершилась с кодом 0 (0x0).
+Программа "[3372] Vivod_i_vvod_v_console.exe" завершилась с кодом 0 (0x0).
