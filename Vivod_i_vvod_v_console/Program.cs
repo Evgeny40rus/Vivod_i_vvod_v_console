@@ -11,6 +11,9 @@ namespace Vivod_i_vvod_v_console
             Console.WriteLine("Привет, Мир!");
             Console.WriteLine();
             Console.WriteLine("Меня зовут " +  MyName);
+
+            Console.ReadKey();
+
         }
     }
 }
